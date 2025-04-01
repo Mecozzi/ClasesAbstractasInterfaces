@@ -1,4 +1,6 @@
-public class Transferencia implements Transaccion{
+package ejercicioUno;
+
+public class Transferencia implements Transaccion {
     @Override
     public void transaccionOk(){
         System.out.println("Realizando transaccion");}

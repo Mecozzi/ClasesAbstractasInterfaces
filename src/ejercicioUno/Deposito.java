@@ -1,3 +1,5 @@
+package ejercicioUno;
+
 public class Deposito implements Transaccion {
     @Override
     public void transaccionOk(){

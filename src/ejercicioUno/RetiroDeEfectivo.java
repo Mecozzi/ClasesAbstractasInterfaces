@@ -1,4 +1,8 @@
-public class RetiroDeEfectivo implements Transaccion{
+package ejercicioUno;
+
+import ejercicioUno.Transaccion;
+
+public class RetiroDeEfectivo implements Transaccion {
        @Override
         public void transaccionOk(){
             System.out.println("Realizando retiro en efectivo ");}

@@ -1,4 +1,6 @@
-public class ConsultaDeSaldo implements Transaccion{
+package ejercicioUno;
+
+public class ConsultaDeSaldo implements Transaccion {
         @Override
         public void transaccionOk(){
             System.out.println("Realizando consulta de saldo");}

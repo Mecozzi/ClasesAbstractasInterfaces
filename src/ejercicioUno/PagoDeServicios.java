@@ -1,4 +1,8 @@
-public class PagoDeServicios implements Transaccion{
+package ejercicioUno;
+
+import ejercicioUno.Transaccion;
+
+public class PagoDeServicios implements Transaccion {
     @Override
     public void transaccionOk(){
         System.out.println("Pago de servicios realizado");

@@ -1,3 +1,5 @@
+package ejercicioUno;
+
 public class Basico {
     public void consultaSaldo(){
         ConsultaDeSaldo consultaDeSaldo = new ConsultaDeSaldo();

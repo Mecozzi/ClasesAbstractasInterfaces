@@ -1,3 +1,5 @@
+package ejercicioUno;
+
 public class Ejecutivo {
    public void realizarDeposito(){
        Deposito deposito = new Deposito();

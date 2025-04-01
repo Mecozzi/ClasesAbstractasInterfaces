@@ -1,3 +1,7 @@
+package ejercicioUno;
+
+import ejercicioUno.Basico;
+
 public class Banco {
     public static void main(String[]args){
         Ejecutivo ejecutivo = new Ejecutivo();

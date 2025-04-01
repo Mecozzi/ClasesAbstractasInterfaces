@@ -1,3 +1,5 @@
+package ejercicioUno;
+
 public class Cobranzas {
     public void realizarConsultaSaldo() {
     ConsultaDeSaldo consulta = new ConsultaDeSaldo();
